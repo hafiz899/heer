@@ -803,7 +803,7 @@ body {
     .box__letter .letter__border {
         position: absolute;
         width: 90vw;
-        height: 530px;
+        height: 580px;
         background-color: var(--color-white);
         border-radius: 27px;
         padding: 17px;
